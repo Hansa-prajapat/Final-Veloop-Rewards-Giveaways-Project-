@@ -50,3 +50,11 @@ Upload the CONTENTS of this folder to the root of the repository. The repository
 
 ### Image note
 The demo references free-to-use Pexels images. Pexels says its photos can be used for websites/apps, but visible trademarks or brands can have separate rights and should not imply endorsement. For a public/commercial release, replace these demo photos with images you have permission to use.
+
+## Earning Target Update
+- Daily target is based on the 6 currently available ads.
+- Each completed ad adds its own listed reward to today's earnings and lifetime balance.
+- The Watch & Earn page includes milestone targets (₹100 / ₹500 / ₹1,000 / ₹2,500) for progress tracking.
+- Progress is stored locally and daily activity resets with the calendar date while lifetime balance remains.
+- Only one ad session can run at a time; closing the popup clears the active timer.
+- The money amounts are a demo display (1 VE = ₹1 for UI illustration). Real cash payouts require a verified ad/task provider, backend, identity/eligibility controls, payout integration, and applicable compliance.
